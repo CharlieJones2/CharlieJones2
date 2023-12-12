@@ -13,7 +13,7 @@ As well as my interest in data, I am passionate about sustainability and environ
 </p>
 
 ### 🌐 Languages and Tools
-<img align="left" alt="python" width="40" style="padding-right:10px;" height="40" href="https://www.python.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" alt="python" width="40" style="padding-right:10px;" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="mysql" width="40" style="padding-right:10px;" height="40" href="https://www.mysql.com" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="powerbi" width="40" style="padding-right:10px;" height="40" href="https://powerbi.microsoft.com/" src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg"/>
 <img align="left" alt="tableau" width="40" style="padding-right:10px;" height="40" href="https://www.tableau.com/en-gb" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"/>
