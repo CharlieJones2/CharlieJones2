@@ -9,7 +9,7 @@ As well as my interest in data, I am passionate about sustainability and environ
 
 <h3 align="left">👨‍💻 Connect with me</h3>
 <p align="left">
-<img align="center" alt="LinkedIn" height="30" width="40" href="https://linkedin.com/in/charlie-jones-z" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+<a href="https://linkedin.com/in/charlie-jones-z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlie-jones-z" height="30" width="40" /></a>
 </p>
 
 ### 🌐 Languages and Tools
