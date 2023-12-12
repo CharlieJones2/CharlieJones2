@@ -13,22 +13,48 @@ As well as my interest in data, I am passionate about sustainability and environ
 </p>
 
 ### 🌐 Languages and Tools
+<picture>
 <img align="left" alt="python" width="40" style="padding-right:10px;" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</picture>
+<picture>
 <img align="left" alt="mysql" width="40" style="padding-right:10px;" height="40" href="https://www.mysql.com" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+</picture>
+<picture>
 <img align="left" alt="powerbi" width="40" style="padding-right:10px;" height="40" href="https://powerbi.microsoft.com/" src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg"/>
+</picture>
+<picture>
 <img align="left" alt="tableau" width="40" style="padding-right:10px;" height="40" href="https://www.tableau.com/en-gb" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"/>
+</picture>
+<picture>
 <img align="left" alt="excel" width="40" style="padding-right:10px;" height="40" href="https://www.microsoft.com/en-gb/microsoft-365/excel" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"/>
+</picture>
+<picture>
 <img align="left" alt="pandas" width="40" style="padding-right:10px;" height="40" href="https://pandas.pydata.org/" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
+</picture>
+<picture>
 <img align="left" alt="scikit_learn" width="40" style="padding-right:10px;" height="40" href="https://scikit-learn.org/" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+</picture>
+<picture>
 <img align="left" alt="seaborn" width="40" style="padding-right:10px;" height="40" href="https://seaborn.pydata.org/" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+</picture>
+<picture>
 <img align="left" alt="sqlite" width="40" style="padding-right:10px;" height="40" href="https://www.sqlite.org/" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
+</picture>
+<picture>
 <img align="left" alt="pytorch" width="40" style="padding-right:10px;" height="40" href="https://pytorch.org/" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"/> 
+</picture>
+<picture>
 <img align="left" alt="tensorflow" width="40" style="padding-right:10px;" height="40" href="https://www.tensorflow.org" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+</picture>
 <br />
 
 #
 
 ### 📊 Stats
 
+<picture>
 <img align="left" alt="Top Languages" style="height:196px; padding-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=charliejones2&show_icons=true&theme=gruvbox&locale=en"/>
+</picture>
+<picture>
 <img align="left" alt="GitHub Stats" style="padding-right:20px;" src="https://github-readme-stats.vercel.app/api?username=charliejones2&show_icons=true&theme=gruvbox&locale=en"/>
+</picture>
