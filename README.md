@@ -52,9 +52,32 @@ As well as my interest in data, I am passionate about sustainability and environ
 
 ### 📊 Stats
 
-<picture>
+<!--<picture>
 <img align="left" alt="Top Languages" style="height:196px; padding-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=charliejones2&show_icons=true&theme=gruvbox&locale=en"/>
 </picture>
 <picture>
 <img align="left" alt="GitHub Stats" style="padding-right:20px;" src="https://github-readme-stats.vercel.app/api?username=charliejones2&show_icons=true&theme=gruvbox&locale=en"/>
+</picture>-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=charliejones2&show_icons=true&theme=gruvbox&locale=en"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=charliejones2&show_icons=true&theme=catppuccin_latte&locale=en"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" alt="Top Languages" style="height:196px; padding-right:20px;" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=charliejones2&show_icons=true&theme=gruvbox&locale=en"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="(https://github-readme-stats.vercel.app/api?username=charliejones2&show_icons=true&theme=catppuccin_latte&locale=en)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" alt="GitHub Stats" style="padding-right:20px;" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
