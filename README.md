@@ -15,6 +15,9 @@ As well as my interest in data, I am passionate about sustainability and environ
 <img align="left" width="40" style="padding-right:10px;" height="40" href="https://www.mysql.com" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </picture>
 <picture>
+<img align="left" width="40" style="padding-right:10px;" height="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+</picture>
+<picture>
 <img align="left" width="40" style="padding-right:10px;" height="40" href="https://powerbi.microsoft.com/" src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg"/>
 </picture>
 <picture>
