@@ -2,7 +2,7 @@
 
 **`Data Analyst, Data Scientist, Database Administrator | First Class BSC Economics Graduate`**
 
-Currently working as a database administrator, I have a first class degree in BSc Economics from Loughborough University. I am an aspiring data analyst and data scientist, and have experience working with many tools for data analysis, manipulation and visualisation including: Python (including: numpy, pandas, scikit-learn, matplotlib, seaborn, scipy), SQL, Tableau, Power BI and Microsoft Excel. I also have domain specific knowledge in statistical programming tools such as eViews and Stata.
+Currently working as a data analyst, I have a first class degree in BSc Economics from Loughborough University. I have experience working with many tools for data analysis, manipulation and visualisation including: Python (numpy, pandas, scikit-learn, matplotlib, seaborn, scipy...), SQL, Tableau, Power BI and Microsoft Excel. I also have domain specific knowledge in statistical programming tools such as SPSS, Stata and eViews.
 As well as my interest in data, I am passionate about sustainability and environmental issues, and hope to use my skills to generate innovative solutions by leveraging the power of data science and the accessibility of data visualisation.
 
 ---
